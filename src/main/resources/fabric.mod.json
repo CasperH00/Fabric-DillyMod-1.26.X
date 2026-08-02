@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "dillymod",
+	"version": "${version}",
+	"name": "Dilly Mod",
+	"description": "This mod adds DEN DILLY to minecraft (lets hope he doesn't eat any energy bars)",
+	"authors": [
+		"W Papa Joris"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dillymod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dilly.dillymod.DillyMod"
+		],
+		"fabric-datagen": [
+			"net.dilly.dillymod.DillyModDataGenerator"
+		]
+	},
+	"mixins": [
+		"dillymod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
