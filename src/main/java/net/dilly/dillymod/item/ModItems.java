@@ -14,6 +14,7 @@ import java.util.function.Function;
 
 public class ModItems {
     public static final Item DILLY = registerItem("dilly", Item::new);
+    public static final Item WEED = registerItem("weed", Item::new);
 
 
 
@@ -25,8 +26,6 @@ public class ModItems {
     public static void registerModItems() {
         DillyMod.LOGGER.info("Registering Mod Items for " + DillyMod.MOD_ID);
 
-        CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.INGREDIENTS).register(output -> {
-            output.accept(DILLY);
-        });
+
     }
 }

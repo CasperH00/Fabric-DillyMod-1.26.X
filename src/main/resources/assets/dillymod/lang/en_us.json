@@ -1,3 +1,9 @@
 {
-  "item.dillymod.dilly": "Dilly"
+  "item.dillymod.dilly": "Dilly",
+  "item.dillymod.weed": "Weed",
+
+  "block.dillymod.dilly01_block": "Dilly Block 1",
+
+  "creativemodetab.dillymod.dilly_items": "Dilly Items",
+  "creativemodetab.dillymod.dilly_blocks": "Dilly Blocks"
 }
