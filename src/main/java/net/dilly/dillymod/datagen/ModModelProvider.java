@@ -16,6 +16,10 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
     public void generateBlockStateModels(BlockModelGenerators blockModelGenerators) {
         blockModelGenerators.createTrivialCube(ModBlocks.DILLY01_BLOCK);
+        blockModelGenerators.createTrivialCube(ModBlocks.DILLY02_BLOCK);
+        blockModelGenerators.createTrivialCube(ModBlocks.DILLY03_BLOCK);
+        blockModelGenerators.createTrivialCube(ModBlocks.DILLY04_BLOCK);
+        blockModelGenerators.createTrivialCube(ModBlocks.DILLY05_BLOCK);
     }
 
     @Override

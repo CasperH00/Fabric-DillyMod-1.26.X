@@ -28,6 +28,10 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativemodetab.dillymod.dilly_blocks"))
                     .displayItems((parameters, output) -> {
                         output.accept(ModBlocks.DILLY01_BLOCK);
+                        output.accept(ModBlocks.DILLY02_BLOCK);
+                        output.accept(ModBlocks.DILLY03_BLOCK);
+                        output.accept(ModBlocks.DILLY04_BLOCK);
+                        output.accept(ModBlocks.DILLY05_BLOCK);
 
                     }).build());
 
