@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "Dilly",
+  "key": {
+    "C": "minecraft:cocoa_beans",
+    "D": "dillymod:dilly"
+  },
+  "pattern": [
+    "DDD",
+    "DCD",
+    "DDD"
+  ],
+  "result": {
+    "id": "dillymod:energy_bar"
+  }
+}
