@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "Dilly",
+  "key": {
+    "D": "dillymod:dilly"
+  },
+  "pattern": [
+    "DDD",
+    "DD "
+  ],
+  "result": {
+    "id": "dillymod:dilly05_block"
+  }
+}

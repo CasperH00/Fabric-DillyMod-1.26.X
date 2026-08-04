@@ -1,0 +1,6 @@
+// 26.2	-999999999-01-01T00:00:00	Dilly Mod/Block Loot Tables
+3e4dfd933c474ef2f2aa8c2da696310545c32d9a data/dillymod/loot_table/blocks/dilly01_block.json
+2e2849a3bb424ef1820f1cc3f8c92fc5b6a3de78 data/dillymod/loot_table/blocks/dilly02_block.json
+45fdfe40338f273cb3cd84824bd15e5b551c81df data/dillymod/loot_table/blocks/dilly03_block.json
+93b4a38f617628e07ae206799c1ced58a3fb6428 data/dillymod/loot_table/blocks/dilly04_block.json
+db1abe1238859df6ee534794a0df8c98f93f436d data/dillymod/loot_table/blocks/dilly05_block.json
