@@ -10,6 +10,8 @@ c72e03f18ee7c6cbae47887d13dbfc6caaa29a68 assets/dillymod/items/dilly02_block.jso
 d0b5d16da847983b13b688841d28bcf412f78b1c assets/dillymod/items/dilly03_block.json
 4af17d0d7caf0a60484615e6f1f6e51d0ba73b8b assets/dillymod/items/dilly04_block.json
 8da4db802c71d466eedab5272cb0592d901a4cff assets/dillymod/items/dilly05_block.json
+e4eadc145decb7637a9334e2fd8ea60c97fcd39d assets/dillymod/items/dilly_on_a_stick.json
+8a96fb45d2f6c83c2026b939ab7b4127eef12fd5 assets/dillymod/items/energy_bar.json
 66e62a4f29ef1954d8a5e8618b1927a00c77cf0b assets/dillymod/items/weed.json
 c8ac07e6f19a1b9e439e448e1379f327a07e6fe5 assets/dillymod/models/block/dilly01_block.json
 9ab436720a5aad5c4f44255d47baa2291a1ac2ee assets/dillymod/models/block/dilly02_block.json
@@ -17,4 +19,6 @@ f3b93cfd34efd2aa363cc3cf31d24345561fe2b5 assets/dillymod/models/block/dilly03_bl
 f0f2e708d5f0685ce6313f38bd433202ef9cace1 assets/dillymod/models/block/dilly04_block.json
 93f2cd0a77a3b59e8ac6562d7eacd7854c776b1c assets/dillymod/models/block/dilly05_block.json
 029b6ca75d9248bd69f729f1006e3cc6cb24fa73 assets/dillymod/models/item/dilly.json
+2d52b971d0a30ed9ea19d960f5ab2c4c0237ee0e assets/dillymod/models/item/dilly_on_a_stick.json
+75f8619b67efdf29cbd2e5470f4ab2ca9c1697c6 assets/dillymod/models/item/energy_bar.json
 b7d08d592694aab0f14cdb7e000544f10cc8d84f assets/dillymod/models/item/weed.json

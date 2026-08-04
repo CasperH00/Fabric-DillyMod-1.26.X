@@ -1,6 +1,11 @@
 {
   "item.dillymod.dilly": "Dilly",
   "item.dillymod.weed": "Weed",
+  "item.dillymod.dilly_on_a_stick": "Dilly On A Stick",
+  "item.dillymod.energy_bar": "Energy Bar",
+
+
+  "item.dillymod.dilly_puke": "Dilly Puking",
 
   "block.dillymod.dilly01_block": "Dilly Block",
   "block.dillymod.dilly02_block": "Dilly Just Being Tuff",

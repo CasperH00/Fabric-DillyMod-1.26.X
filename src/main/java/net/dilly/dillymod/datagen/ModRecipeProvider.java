@@ -108,6 +108,24 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                         .group("Dilly")
                         .save(output, "dilly_from_seeds");
 
+                shaped(RecipeCategory.MISC, ModItems.DILLY_ON_A_STICK)
+                        .pattern(" D ")
+                        .pattern(" S ")
+                        .define('S', Items.STICK)
+                        .define('D', ModItems.DILLY)
+                        .unlockedBy(getHasName(ModItems.DILLY), has(ModItems.DILLY))
+                        .group("Dilly")
+                        .save(output);
+
+                shaped(RecipeCategory.MISC, ModItems.ENERGY_BAR)
+                        .pattern("DDD")
+                        .pattern("DCD")
+                        .pattern("DDD")
+                        .define('C', Items.COCOA_BEANS)
+                        .define('D', ModItems.DILLY)
+                        .unlockedBy(getHasName(ModItems.DILLY), has(ModItems.DILLY))
+                        .group("Dilly")
+                        .save(output);
 
 
 

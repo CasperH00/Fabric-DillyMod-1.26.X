@@ -26,5 +26,7 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerators itemModelGenerators) {
         itemModelGenerators.generateFlatItem(ModItems.DILLY, ModelTemplates.FLAT_ITEM);
         itemModelGenerators.generateFlatItem(ModItems.WEED, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(ModItems.DILLY_ON_A_STICK, ModelTemplates.FLAT_HANDHELD_ITEM);
+        itemModelGenerators.generateFlatItem(ModItems.ENERGY_BAR, ModelTemplates.FLAT_ITEM);
     }
 }

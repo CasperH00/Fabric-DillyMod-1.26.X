@@ -19,6 +19,8 @@ public class ModCreativeModeTabs {
                     .displayItems((parameters, output) -> {
                         output.accept(ModItems.DILLY);
                         output.accept(ModItems.WEED);
+                        output.accept(ModItems.DILLY_ON_A_STICK);
+                        output.accept(ModItems.ENERGY_BAR);
 
                     }).build());
 
